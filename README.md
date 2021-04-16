@@ -17,3 +17,10 @@ matplotlib. pyplot is a collection of functions that make matplotlib work like M
 - Matplotlib Bars
 - Matplotlib Histograms
 - Matplotlib Pie Charts
+
+
+# Follow:
+Linkedin Link: https://www.linkedin.com/in/bhavik-jikadara-612643190
+Facebook Link:  https://www.facebook.com/Bhavikjikadara07
+instagram Link:  https://www.instagram.com/bhavikjikadara/
+twitter Link:  https://twitter.com/BhavikJikadara1?s=09
