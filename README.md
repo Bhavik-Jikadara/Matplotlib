@@ -20,7 +20,7 @@ matplotlib. pyplot is a collection of functions that make matplotlib work like M
 
 
 # Follow:
-Linkedin Link: https://www.linkedin.com/in/bhavik-jikadara-612643190
-Facebook Link:  https://www.facebook.com/Bhavikjikadara07
-instagram Link:  https://www.instagram.com/bhavikjikadara/
-twitter Link:  https://twitter.com/BhavikJikadara1?s=09
+- Linkedin Link: https://www.linkedin.com/in/bhavik-jikadara-612643190
+- Facebook Link:  https://www.facebook.com/Bhavikjikadara07
+- instagram Link:  https://www.instagram.com/bhavikjikadara/
+- twitter Link:  https://twitter.com/BhavikJikadara1?s=09
